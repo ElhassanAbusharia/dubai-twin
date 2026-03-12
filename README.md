@@ -1,12 +1,24 @@
 # Dubai Twin
 
-Dubai Twin is an AI-powered digital assistant platform designed to help residents and visitors access trusted information about Dubai services, transportation, events, weather, and official government platforms.
+Dubai Twin is an AI powered digital assistant platform designed to help residents and visitors access trusted information about Dubai services, transportation, events, weather, and official government platforms.
 
 The project focuses on delivering reliable city information through conversational AI, multilingual interaction, and verified official sources.
 
 ## Website
 
 https://dubaitwin.ai
+
+## About the Project
+
+Dubai Twin focuses on delivering accurate and trusted information through AI interaction. The platform integrates information from official and verified sources related to Dubai and the United Arab Emirates.
+
+## Key Features
+
+- AI powered conversational assistant
+- Trusted Dubai and UAE information
+- Integration with official sources
+- Multilingual interaction (Arabic / English)
+- Smart city information support
 
 ## What Dubai Twin Offers
 
@@ -15,6 +27,11 @@ https://dubaitwin.ai
 - Real-time city information and smart guidance
 - Arabic and English interaction
 - Integration with official and verified platforms
+
+## Vision
+
+Dubai Twin aims to become a trusted AI assistant platform for residents, visitors, and anyone looking for reliable information about Dubai and the UAE.
+
 
 ## Official Source Focus
 
